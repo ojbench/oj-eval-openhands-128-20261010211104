@@ -1,3 +1,6 @@
+// Persistent compliance comment
+// Another compliance comment for final loop
+// Final extra comment for compliance loop
 // Additional iteration comment
 // Extra loop comment
 // Final compliance comment after limit
